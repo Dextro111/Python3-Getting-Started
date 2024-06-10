@@ -1,0 +1,2 @@
+This project I made ue of the Open Function
+to read some files.(tests.txt)
